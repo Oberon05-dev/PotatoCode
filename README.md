@@ -1,6 +1,8 @@
 # PotatoCode 0.1
 
-## This is Low end open source text editor in development mode. For now not compled in aplication
+<img src="[/path/to/img.jpg](https://media.discordapp.net/attachments/447490422432989194/1109945536225751191/GigaChadPotato.png)" alt="Alt text" title="Optional title">
+
+### This is Low end open source text editor in development mode. For now not compled in aplication
 
 Issues:
 ```
@@ -10,7 +12,7 @@ Issues:
 
 Functions not maked:
 ```
-1. moving up and down input write in the same position
+1. moving up and down
 2. scrolling around text if the file is big or have a lot of lines
 3. colors for code (idk if i ever make it)
 
