@@ -1,6 +1,6 @@
 # PotatoCode 0.1
 
-<img src="[/path/to/img.jpg](https://media.discordapp.net/attachments/447490422432989194/1109945536225751191/GigaChadPotato.png)" alt="Alt text" title="Optional title">
+<img src="GigaChadPotato.png" style="width: 300px;" alt="Alt text" title="Optional title">
 
 ### This is Low end open source text editor in development mode. For now not compled in aplication
 
