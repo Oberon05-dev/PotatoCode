@@ -1,6 +1,9 @@
 # PotatoCode 0.1
 
 <img src="GigaChadPotato.svg" alt="GigaChadPotato" title="Optional title">
+<svg xmlns="GigaChadPotato.svg" version="0.1">
+   <circle r="100" fill="currentColor" />
+</svg>
 
 ### This is Low end open source text editor in development mode. For now not compled in aplication
 
